@@ -24,7 +24,7 @@ import java.util.Locale;
 public class MainActivity extends AppCompatActivity {
     private ImageView imMain;
     private TextToSpeech textToSpeech;
-    private MediaPlayer catSound, dverSound;
+    private MediaPlayer catSound, dverSound, sound;
     private String name;
 
 
