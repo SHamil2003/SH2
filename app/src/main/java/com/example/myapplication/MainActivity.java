@@ -22,7 +22,7 @@ import java.util.ArrayList;
 import java.util.Locale;
 
 public class MainActivity extends AppCompatActivity {
-    private TextView textTest;
+    private TextView textTest, text2;
     private ImageView imMain;
     private TextToSpeech textToSpeech;
     private MediaPlayer catSound, dverSound, ogonSound, obyvSound;
