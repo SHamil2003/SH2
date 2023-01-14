@@ -101,6 +101,10 @@ public class MainActivity extends AppCompatActivity {
                 imMain.setImageResource(R.drawable.cat);
                 name = "кот";
                 break;
+            case "кошка":
+                imMain.setImageResource(R.drawable.cat);
+                name = "кошка";
+                break;
             case "дверь":
                 imMain.setImageResource(R.drawable.dver);
                 name = "дверь";
