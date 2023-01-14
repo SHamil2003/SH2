@@ -22,7 +22,6 @@ import java.util.ArrayList;
 import java.util.Locale;
 
 public class MainActivity extends AppCompatActivity {
-    private TextView textTest;
     private ImageView imMain;
     private TextToSpeech textToSpeech;
     private MediaPlayer catSound, dverSound;
