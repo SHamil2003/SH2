@@ -25,7 +25,7 @@ public class MainActivity extends AppCompatActivity {
     private TextView textTest;
     private ImageView imMain;
     private TextToSpeech textToSpeech;
-    private MediaPlayer catSound, dverSound, ogonSound, obyvSound;
+    private MediaPlayer catSound, dverSound;
     private String name;
 
 
